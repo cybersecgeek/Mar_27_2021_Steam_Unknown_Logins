@@ -3,7 +3,7 @@
 ## 180.183.155.183    :arrow_right: Thailand, Chiang Mai 
 
 
-## 182.16.24.13    :arrow_right:  [Viet Nam] Viet Nam, Hanoi 
+## 182.16.24.13    :arrow_right:  Viet Nam, Hanoi 
 
 ![Shodan SC](https://github.com/cybersecgeek/Mar_27_2021_Steam_Unknown_Logins/blob/be0a8bbc272c8c2ba4c5763f722be6cc93fb533d/SUL_2021-03-27_Shodan.png)
 
