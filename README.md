@@ -19,4 +19,6 @@ Account Security Recommendations   https://support.steampowered.com/kb_article.p
 
 
 
-# Complete Report  :arrow_right: https://github.com/cybersecgeek/Mar_27_2021_Steam_Unknown_Logins/blob/main/Unauthorized_Logins_Report.md
+# Full Report
+
+Find the complete report here  :arrow_right: https://github.com/cybersecgeek/Mar_27_2021_Steam_Unknown_Logins/blob/main/Unauthorized_Logins_Report.md
