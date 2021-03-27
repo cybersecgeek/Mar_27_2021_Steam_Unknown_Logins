@@ -44,11 +44,11 @@ https://exchange.xforce.ibmcloud.com/ip/123.16.24.13
 SPAM Botnet using DVRs ??? 
 
 
-Mitigation:
+#Mitigation:
 
 Change acct password 
 
 
-Additional Resources
+#Additional Resources
 
 Account Security Recommendations   https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478
