@@ -1,4 +1,4 @@
-# Investigating 2 attempted unauthorised logins to a Steam Account. 
+# Investigating 2 attempted unauthorized logins to a Steam Account. 
 
 ## IPs to investigate:
 
